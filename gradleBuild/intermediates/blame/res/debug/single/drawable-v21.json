@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]

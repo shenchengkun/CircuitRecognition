@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\cheng\\Desktop\\android\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]

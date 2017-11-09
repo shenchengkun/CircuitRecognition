@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

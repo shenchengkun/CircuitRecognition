@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\sink_on.png",
+        "source": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\res\\drawable\\sink_on.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\xnor.png",
+        "source": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\res\\drawable\\xnor.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\sink_on.png",
+        "source": "C:\\Users\\cheng\\Desktop\\android\\res\\drawable\\sink_on.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\xor.png",
+        "source": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\res\\drawable\\xor.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\sink_null.png",
+        "source": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\res\\drawable\\sink_null.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\nand.png",
+        "source": "C:\\Users\\cheng\\Desktop\\android\\res\\drawable\\nand.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\source_off.png",
+        "source": "C:\\Users\\cheng\\Desktop\\android\\res\\drawable\\source_off.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\nor.png",
+        "source": "C:\\Users\\cheng\\Desktop\\android\\res\\drawable\\nor.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\and.png",
+        "source": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\res\\drawable\\and.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\or.png",
+        "source": "C:\\Users\\cheng\\Desktop\\android\\res\\drawable\\or.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\nand.png",
+        "source": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\res\\drawable\\nand.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\not.png",
+        "source": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\res\\drawable\\not.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\sink_off.png",
+        "source": "C:\\Users\\cheng\\Desktop\\android\\res\\drawable\\sink_off.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\sink_off.png",
+        "source": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\res\\drawable\\sink_off.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\source_on.png",
+        "source": "C:\\Users\\cheng\\Desktop\\android\\res\\drawable\\source_on.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\sink_null.png",
+        "source": "C:\\Users\\cheng\\Desktop\\android\\res\\drawable\\sink_null.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\not.png",
+        "source": "C:\\Users\\cheng\\Desktop\\android\\res\\drawable\\not.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\source_on.png",
+        "source": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\res\\drawable\\source_on.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\or.png",
+        "source": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\res\\drawable\\or.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\xnor.png",
+        "source": "C:\\Users\\cheng\\Desktop\\android\\res\\drawable\\xnor.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\source_off.png",
+        "source": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\res\\drawable\\source_off.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\nor.png",
+        "source": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\res\\drawable\\nor.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\cheng\\.android\\build-cache\\53a990593a3f872ff2942eefcd6d0348de265da7\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\and.png",
+        "source": "C:\\Users\\cheng\\Desktop\\android\\res\\drawable\\and.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable\\xor.png",
+        "source": "C:\\Users\\cheng\\Desktop\\android\\res\\drawable\\xor.png"
+    }
+]

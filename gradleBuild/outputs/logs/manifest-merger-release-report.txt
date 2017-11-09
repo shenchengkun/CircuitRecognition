@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:3:1-31:12
+	package
+		ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:4:5-34
+	xmlns:android
+		ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:3:11-69
+uses-sdk
+ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\53a990593a3f872ff2942eefcd6d0348de265da7\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\bc5ce42966b15a2dc9c3a00548b4256d3cd7edad\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\1078f830e23816f7e868e3f349594eaba25f644c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\fefe5173f02b66d34af7e44e016d034f34441418\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\2d9b43cb1e71513c938b4df46512d37cf897b559\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\9bbaa486b41e451581671aeefbb7e2995653d8b6\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\3d4d05e61e5c08711291f1032e628ab644bc6eaa\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\cc15b113b642f7829ee64d965823bec87bca3be3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\f88ab0e8b1d6d326ae03f4d9b0004222442f3129\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\53a990593a3f872ff2942eefcd6d0348de265da7\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml
+		INJECTED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml
+		INJECTED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml
+application
+ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:11:5-28:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\53a990593a3f872ff2942eefcd6d0348de265da7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\bc5ce42966b15a2dc9c3a00548b4256d3cd7edad\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\1078f830e23816f7e868e3f349594eaba25f644c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\fefe5173f02b66d34af7e44e016d034f34441418\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\2d9b43cb1e71513c938b4df46512d37cf897b559\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\9bbaa486b41e451581671aeefbb7e2995653d8b6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\3d4d05e61e5c08711291f1032e628ab644bc6eaa\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\cc15b113b642f7829ee64d965823bec87bca3be3\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\f88ab0e8b1d6d326ae03f4d9b0004222442f3129\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:15:9-56
+activity#org.tensorflow.demo.ui.DrawGates
+ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:16:9-23:20
+	android:screenOrientation
+		ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:17:13-50
+	android:name
+		ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:16:19-66
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:21:27-74
+activity#org.tensorflow.demo.ui.listAll1
+ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:24:9-27:58
+	android:label
+		ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:26:13-38
+	android:parentActivityName
+		ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:27:13-55
+	android:theme
+		ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:24:19-46
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:29:5-80
+	android:name
+		ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:29:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:30:5-81
+	android:name
+		ADDED from C:\Users\cheng\Desktop\Project\hetero-master\android\tensorflow-master\tensorflow\examples\android\AndroidManifest.xml:30:22-78
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\53a990593a3f872ff2942eefcd6d0348de265da7\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\bc5ce42966b15a2dc9c3a00548b4256d3cd7edad\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\1078f830e23816f7e868e3f349594eaba25f644c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\fefe5173f02b66d34af7e44e016d034f34441418\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\2d9b43cb1e71513c938b4df46512d37cf897b559\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\9bbaa486b41e451581671aeefbb7e2995653d8b6\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\3d4d05e61e5c08711291f1032e628ab644bc6eaa\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\cc15b113b642f7829ee64d965823bec87bca3be3\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\f88ab0e8b1d6d326ae03f4d9b0004222442f3129\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\53a990593a3f872ff2942eefcd6d0348de265da7\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\cheng\.android\build-cache\53a990593a3f872ff2942eefcd6d0348de265da7\output\AndroidManifest.xml:26:9-47

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_info.png",
+        "source": "C:\\Users\\cheng\\Desktop\\android\\res\\drawable-hdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
+        "source": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
+        "source": "C:\\Users\\cheng\\Desktop\\android\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\cheng\\Desktop\\android\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_info.png",
+        "source": "C:\\Users\\cheng\\Desktop\\Project\\hetero-master\\android\\tensorflow-master\\tensorflow\\examples\\android\\res\\drawable-hdpi\\ic_action_info.png"
+    }
+]
