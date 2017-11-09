@@ -1,3 +1,5 @@
+The application that recognizes hand-draw logical circuits
+
 ## Building the Project 
 
 ##### Install Bazel
